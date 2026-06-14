@@ -1,6 +1,8 @@
 <!-- repo-card -->
 ![autoapply](docs/assets/social-card.png)
 
+![autoapply — architecture](docs/assets/architecture.png)
+
 # AutoApply
 
 An automated job search and application tool that streamlines the job hunting process across multiple platforms. AutoApply uses browser automation to search for jobs, extract listings, and submit applications on LinkedIn, Indeed, and Glassdoor.
